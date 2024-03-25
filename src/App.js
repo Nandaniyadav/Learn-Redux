@@ -66,7 +66,7 @@
 
 
 
-// --------------------------------  for Redux  --------------------------------------
+////--------------------------------  for Redux  --------------------------------------
 import React from 'react'
 import HomeContainers from './cotainers/HomeContainers';
 
