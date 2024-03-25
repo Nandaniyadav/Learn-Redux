@@ -1,0 +1,8 @@
+.cardStyle {
+    height: auto;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap:25px;
+}
