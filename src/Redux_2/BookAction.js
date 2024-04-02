@@ -1,6 +1,7 @@
-import {buyBook} from './Booktypes';
+import { buy_book } from "./Booktypes";
 const purchase_book =()=>{
     return{
-        type : buyBook
+        type : buy_book
     }
 }
+export default purchase_book;

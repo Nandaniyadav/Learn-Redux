@@ -1,7 +1,8 @@
 import React from 'react';
 import './HomeStyle.css';
 
-const Home = () => {
+const Home = (props) => {
+    console.log("props",props)
     return (
         <>
            <div className='head'> <h1><u>Learn redux</u></h1></div>
