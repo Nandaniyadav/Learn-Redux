@@ -1,0 +1,10 @@
+.titlestyle{
+    background-color: gray;
+    height: 50px;
+    width: 100%;
+}
+.bodystyle{
+    height: auto;
+    width: 500px;
+    box-shadow: 10px 5px 5px red;
+}
